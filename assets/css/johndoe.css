@@ -11610,7 +11610,7 @@ pre .code {
 }
 
 .section.bg-custom-gray {
-  background: rgba(242, 244, 247, 0.15);
+  background: rgba(0, 0, 0, 1);
 }
 
 .about-section {
